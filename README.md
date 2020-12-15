@@ -15,5 +15,5 @@ I'm a student programmer in Daegu Science High School.
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Talkwarrior)](https://solved.ac/Talkwarrior)
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Talkwarrior)](https://solved.ac/Talkwarrior) -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Talkwarrior)](https://github.com/anuraghazra/github-readme-stats)
